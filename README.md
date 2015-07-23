@@ -1,5 +1,6 @@
 # Effects of disputes and reasement violations on the cost-effectiveness of land conservation
 
+[![DOI](https://zenodo.org/badge/15744/yeronimo/Easement_cost-effectiveness.svg)](https://zenodo.org/badge/latestdoi/15744/yeronimo/Easement_cost-effectiveness)
 This repository includes the data and files for the example analysis of the following paper published in PeerJ:
 
 Schuster and Arcese (2015) Effects of disputes and easement violations on the cost-effectiveness of land conservation. PeerJ x:xxxx
